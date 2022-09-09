@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>《长恨歌》</title>
+      <link>http://localhost:1313/post/chinese-preview/</link>
+      <pubDate>Thu, 08 Sep 2022 22:19:30 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/chinese-preview/</guid>
+      <description>《长恨歌》是中国唐朝诗人白居易的一首长篇叙事诗。 第一段：贵妃受宠爱 汉皇重色思倾国，御宇多年求不得。杨家有女初长成，养在深闺人未识。 天生丽质难</description>
+    </item>
+    
+    <item>
+      <title>秋叶</title>
+      <link>http://localhost:1313/post/qiuye/</link>
+      <pubDate>Thu, 08 Sep 2022 22:19:30 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/qiuye/</guid>
+      <description>在我的后园，可以看见墙外有两株树，一株是枣树，还有一株也是枣树。 这上面的夜的天空，奇怪而高，我生平没有见过这样奇怪而高的天空。他1仿佛要离开</description>
+    </item>
+    
+  </channel>
+</rss>
